@@ -1,6 +1,6 @@
 package assignment0;
 
-import support.lab0.RobotMotionAdapter;
+import support.assignment0.RobotMotionAdapter;
 
 public class RobotInstructions  {
 

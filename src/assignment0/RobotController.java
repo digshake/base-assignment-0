@@ -21,9 +21,9 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import support.lab0.ImagePanel;
-import support.lab0.RobotMotionAdapter;
-import support.lab0.RobotThread;
+import support.assignment0.ImagePanel;
+import support.assignment0.RobotMotionAdapter;
+import support.assignment0.RobotThread;
 import support.robot.RobotModel;
 import support.robot.RobotView;
 

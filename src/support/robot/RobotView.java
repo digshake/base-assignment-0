@@ -3,9 +3,8 @@ import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 
-
-import support.lab0.Point;
-import support.lab0.Vector;
+import support.assignment0.Point;
+import support.assignment0.Vector;
 
 public class RobotView {
 

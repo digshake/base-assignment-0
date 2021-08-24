@@ -1,4 +1,4 @@
-package support.lab0;
+package support.assignment0;
 
 import java.awt.Dimension;
 import java.awt.Graphics;

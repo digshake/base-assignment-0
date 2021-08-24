@@ -1,4 +1,4 @@
-package support.lab0;
+package support.assignment0;
 
 import support.robot.RobotModel;
 
